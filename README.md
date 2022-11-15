@@ -1,8 +1,8 @@
 # Private 10위(0.83173) Efficientnet + Ensemble
 
-- 먼저 Pytorch로 Efficientnet B1-B6 모델을 학습하여 앙상블 진행
-- 다음 TensorFlow로 Efficientnet B1-B6 모델을 학습하여 앙상블 진행
-- 최종 적으로 Pytorch 모델과 TensorFlow 모델을 앙상블 하여 결과 도출.
+- Pytorch로 Efficientnet B1-B6 모델을 학습하여 앙상블 진행
+- TensorFlow로 Efficientnet B1-B6 모델을 학습하여 앙상블 진행
+- Pytorch 모델과 TensorFlow 모델을 앙상블 하여 결과 도출.
 
 
 1. Pytorch Model
